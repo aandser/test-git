@@ -6,3 +6,4 @@ Git test repo
 - tre
 - quattro
 - cinque or cinque1
+-sei
